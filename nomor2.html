@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>HTML 5 Tugas Praktikum</title>
+        <style>
+            footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #d6d6d6
+            }
+        </style>
+    </head>
+    
+<!--Yuwanda Indra Gunawan -->
+
+    <body>
+        <div class="container">
+            <h1>Form HTML</h1>
+            <form action="" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="name">Nama</label>
+                    <input type="name" id="name" name="name">
+                </div>
+                <div class="form-group">
+                    <label for="gender">Gender</label>
+                    <input type="radio" id="gender" name="gender" value="male">Male
+                    <input type="radio" id="gender" name="gender" value="female">Female
+                </div>
+                <div class="form-group">
+                    <label for="country">Country</label>
+                    <select id="country" name="country">
+                    <option>Indonesia</option>
+                    <option>Kuvukiland</option>
+                    <option>Pulau Kapuk</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="photo">Foto</label>
+                    <input type="file" id="photo" name="photo">
+                </div>
+                <div class="form-group">
+                    <label for="comment">Comment</label>
+                    <textarea id="comment" rows="4" cols="50" name="comment"></textarea>
+                    <button type="submit" name="submit">Submit</button>
+                </div>
+                <p style="text-align: center;">Form Registrasi</p>
+            </form>
+        </div>
+    </body>
+    
