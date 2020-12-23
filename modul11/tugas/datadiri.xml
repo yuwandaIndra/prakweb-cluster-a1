@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<DataDiri>
+    <nama>
+        <awal>Ahmad Auzan Varian</awal>
+        <akhir>Syahputra</akhir>
+    </nama>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <kelurahan>Pagedangan</kelurahan>
+        <kecamatan>Pagedangan</kecamatan>
+        <kota>Kab Tangerang</kota>
+    </alamat>
+
+    <mediaSosial>
+        <instagram>ian.a.varian</instagram>
+    </mediaSosial>
+
+    <saudara>
+      <adik>Azzam Hakam Ghifari</adik>
+    </saudara>
+
+    <orangTua>
+        <bapak>
+            <nama>
+                <awal>Joko</awal>
+                <akhir>Syahrianto</akhir>
+            </nama>
+        </bapak>
+
+        <ibu>
+            <nama>
+                <awal>Siti</awal>
+                <akhir>Makbulah</akhir>
+            </nama>
+        </ibu>
+    </orangTua>
+
+    <hobi>
+        <kegiatan>Bacotin Budi</kegiatan>
+        <kegiatan>Hina bang topik</kegiatan>
+    </hobi>
+</DataDiri>

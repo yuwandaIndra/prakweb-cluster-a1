@@ -1,0 +1,36 @@
+{
+  "DataDiri": {
+    "nama": {
+      "awal": "Ahmad Auzan Varian",
+      "akhir": "Syahputra"
+    },
+    "jenisKelamin": "Laki-laki",
+    "alamat": {
+      "kelurahan": "Pagedangan",
+      "kecamatan": "Pagedangan",
+      "kota": "Kab Tangerang"
+    },
+    "mediaSosial": { "instagram": "ian.a.varian" },
+    "saudara": { "adik": "Azzam Hakam Ghifari" },
+    "orangTua": {
+      "bapak": {
+        "nama": {
+          "awal": "Joko",
+          "akhir": "Syahrianto"
+        }
+      },
+      "ibu": {
+        "nama": {
+          "awal": "Siti",
+          "akhir": "Makbulah"
+        }
+      }
+    },
+    "hobi": {
+      "kegiatan": [
+        "Bacotin Budi",
+        "Hina bang topik"
+      ]
+    }
+  }
+}
