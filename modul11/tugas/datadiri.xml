@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <DataDiri>
     <nama>
-        <awal>Ahmad Auzan Varian</awal>
-        <akhir>Syahputra</akhir>
+        <awal>Yuwanda Indra </awal>
+        <akhir>Gunawan</akhir>
     </nama>
 
     <jenisKelamin>Laki-laki</jenisKelamin>
 
     <alamat>
-        <kelurahan>Pagedangan</kelurahan>
-        <kecamatan>Pagedangan</kecamatan>
-        <kota>Kab Tangerang</kota>
+        <kelurahan>Cibeber</kelurahan>
+        <kecamatan>Cibeber</kecamatan>
+        <kota>Cilegon</kota>
     </alamat>
 
     <mediaSosial>
-        <instagram>ian.a.varian</instagram>
+        <instagram>Yuwanda.ig</instagram>
     </mediaSosial>
 
     <saudara>
-      <adik>Azzam Hakam Ghifari</adik>
+      <adik>Rahasia</adik>
     </saudara>
 
     <orangTua>
         <bapak>
             <nama>
-                <awal>Joko</awal>
-                <akhir>Syahrianto</akhir>
+                <awal>Rahasia</awal>
+                <akhir>Rahasia</akhir>
             </nama>
         </bapak>
 
         <ibu>
             <nama>
-                <awal>Siti</awal>
-                <akhir>Makbulah</akhir>
+                <awal>Rahasia</awal>
+                <akhir>Rahasia</akhir>
             </nama>
         </ibu>
     </orangTua>
 
     <hobi>
-        <kegiatan>Bacotin Budi</kegiatan>
-        <kegiatan>Hina bang topik</kegiatan>
+        <kegiatan>do nothing</kegiatan>
+        <kegiatan>do nothing</kegiatan>
     </hobi>
 </DataDiri>
