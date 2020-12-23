@@ -1,0 +1,28 @@
+$mycolour : rgb(95,223,255);
+$bgcolour:#333;
+$number1:20x;
+$allign1:center;
+
+.navbar{
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: $bgcolour;
+  }
+  li{
+    float: right;
+    margin-right: $number1;
+  }
+  li a{
+    display: block;
+    color: white;
+    text-align: $allign1;
+    padding: 14px $number1;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: $mycolour;
+  }
+}
