@@ -1,35 +1,35 @@
 {
   "DataDiri": {
     "nama": {
-      "awal": "Ahmad Auzan Varian",
-      "akhir": "Syahputra"
+      "awal": "Yuwanda Indra",
+      "akhir": "Gunawan"
     },
     "jenisKelamin": "Laki-laki",
     "alamat": {
-      "kelurahan": "Pagedangan",
-      "kecamatan": "Pagedangan",
-      "kota": "Kab Tangerang"
+      "kelurahan": "Cibeber",
+      "kecamatan": "Cibeber",
+      "kota": "Cilegon"
     },
-    "mediaSosial": { "instagram": "ian.a.varian" },
-    "saudara": { "adik": "Azzam Hakam Ghifari" },
+    "mediaSosial": { "instagram": "Yuwanda.ig" },
+    "saudara": { "adik": "Rahasia" },
     "orangTua": {
       "bapak": {
         "nama": {
-          "awal": "Joko",
-          "akhir": "Syahrianto"
+          "awal": "Rahasia",
+          "akhir": "Rahasia"
         }
       },
       "ibu": {
         "nama": {
-          "awal": "Siti",
-          "akhir": "Makbulah"
+          "awal": "Rahasia",
+          "akhir": "Rahasia"
         }
       }
     },
     "hobi": {
       "kegiatan": [
-        "Bacotin Budi",
-        "Hina bang topik"
+        "do nothing",
+        "do nothing"
       ]
     }
   }
